@@ -1,4 +1,4 @@
-<img src="https://imgur.com/aKKOFIc" width="100%"/>
+<img src="https://imgur.com/aKKOFIc">
 
  👋🏽 Hey! Welcome to my page
 
