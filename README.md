@@ -1,4 +1,4 @@
-<img src="https://imgur.com/aKKOFIc">
+<img src="https://b4dcat404.github.io/images/two.gif" width="100%"/>
 
  👋🏽 Hey! Welcome to my page
 
